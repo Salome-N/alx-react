@@ -1,4 +1,3 @@
-/* eslint-disable */
 import { Seq } from 'immutable';
 
 export default function printBestStudents(grades) {
