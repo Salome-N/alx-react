@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { List } from 'immutable';
 
 export function getListObject(array) {
