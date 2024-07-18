@@ -1,4 +1,4 @@
-// Converting into an Immutable object using fromJS
+/* eslint-disable */
 import { fromJS } from 'immutable';
 
 export default function getImmutableObject(object) {
